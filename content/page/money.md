@@ -1,3 +1,5 @@
+# How are we making money?
+
 *This is still a draft*
 
 ## Brainstorming

@@ -1,4 +1,4 @@
-# Overview
+# Business analysis overview
 
 A receipt analysis service which will provide an overview and help with the classification of the purchased entries.
 
@@ -12,7 +12,7 @@ A receipt analysis service which will provide an overview and help with the clas
 
 ## Unauthorized visitor
 
-- [ ] 🔥**AS A** visitor
+- [X] 🔥**AS A** visitor
   **I WANT** to see some statistics and examples
   **SO THAT** I would have confidence in using the service.
   [☁#24](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-backend/-/issues/24)

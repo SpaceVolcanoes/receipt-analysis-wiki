@@ -18,9 +18,6 @@ We are building a automatic shopping receipt data capture and analysis service w
 - [ ] A working website online that is able to produce receipt data from (some) images
 - [ ] User account login page so that the data will remain connected with the customer
 - [ ] Provide some statistics/insight for our users about their shopping behavior
----
-- [Business analysis](/page/business-analysis)
-- [How are we making money?](/page/money)
 
 ## The Team
 - **Team Lead and Project Manager**:  Jaak Kütt  @jakutt
