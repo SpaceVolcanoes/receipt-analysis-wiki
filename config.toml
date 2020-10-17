@@ -14,7 +14,7 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 
 [Params]
-  subtitle = "Hugo Blog Template for GitLab Pages"
+  subtitle = "Say no to poverty!"
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
@@ -39,39 +39,28 @@ pygmentCodeFences = true
   gitlab = "jakutt"
 
 [[menu.main]]
-    name = "Blog"
-    url = ""
-    weight = 1
-
-[[menu.main]]
-    name = "About"
-    url = "page/about/"
-    weight = 3
-
-[[menu.main]]
-    identifier = "samples"
-    name = "Samples"
+    identifier = "retros"
+    name = "Retros"
     weight = 2
 
 [[menu.main]]
-    parent = "samples"
-    name = "Big Image Sample"
-    url = "post/2017-03-07-bigimg-sample"
+    parent = "retros"
+    name = "Spawn point"
+    url = "page/retro-spawn-point"
     weight = 1
 
 [[menu.main]]
-    parent = "samples"
-    name = "Math Sample"
-    url = "post/2017-03-05-math-sample"
+    parent = "retros"
+    name = "Dumpster fire"
+    url = "page/retro-dumpster-fire"
     weight = 2
 
 [[menu.main]]
-    parent = "samples"
-    name = "Code Sample"
-    url = "post/2016-03-08-code-sample"
+    name = "Business"
+    url = "page/business-analysis"
     weight = 3
 
 [[menu.main]]
-    name = "Tags"
-    url = "tags"
+    name = "Money"
+    url = "page/money"
     weight = 3
