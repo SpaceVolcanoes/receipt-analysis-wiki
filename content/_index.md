@@ -1,7 +1,7 @@
 # Receipt analysis service
 ![g272](/g272.png)
 
-We are building a automatic shopping receipt data capture and analysis service where users can upload a picture of their latest receipts and get a detailed overview of their spending habits and trends to help them manage their money easier. 
+We are building an automatic shopping receipt data capture and analysis service where users can upload a picture of their latest receipts and get a detailed overview of their spending habits and trends to help them manage their money easier. 
 
 **In part 1 we will accomplish the following:**
 - [x] Have a basic backend REST API that allows us to upload images 
@@ -24,6 +24,11 @@ We are building a automatic shopping receipt data capture and analysis service w
 - **Lead Backend Developer**:  Kristjan Kõiv  @krikoi
 - **Lead Frontend Developer**:  Kristajn Koitla  @krkoit
 - **DevOps Engineer**:  Mart Kaasik  @markaa
+
+## Repositories
+
+- [Frontend](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-frontend/)
+- [Backend](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-backend/)
 
 ## Retros
 

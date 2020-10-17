@@ -15,7 +15,7 @@ pygmentCodeFences = true
 
 [Params]
   subtitle = "Say no to poverty!"
-  logo = "img/logo.png"
+  logo = "logo.jpg"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
