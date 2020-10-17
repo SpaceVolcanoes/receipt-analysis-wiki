@@ -19,7 +19,7 @@ We are building a automatic shopping receipt data capture and analysis service w
 - [ ] User account login page so that the data will remain connected with the customer
 - [ ] Provide some statistics/insight for our users about their shopping behavior
 ---
-- [Business analysis](/page/business_analysis)
+- [Business analysis](/page/business-analysis)
 - [How are we making money?](/page/money)
 
 ## The Team
@@ -30,8 +30,8 @@ We are building a automatic shopping receipt data capture and analysis service w
 
 ## Retros
 
-- [Spawn point](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-backend/-/wikis/Spawn-point-retro) - milestone [front](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-frontend/-/milestones/1) / [back](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-backend/-/milestones/1)
-- [Dumpster Fire](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-backend/-/wikis/Dumpster-Fire-retro) - milestone [front](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-frontend/-/milestones/2) / [back](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-backend/-/milestones/2)
+- [Spawn point](/page/retro-spawn-point) - milestone [front](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-frontend/-/milestones/1) / [back](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-backend/-/milestones/1)
+- [Dumpster Fire](/page/retro-dumpster-fire) - milestone [front](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-frontend/-/milestones/2) / [back](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-backend/-/milestones/2)
 
 ## Supporting materials
 
