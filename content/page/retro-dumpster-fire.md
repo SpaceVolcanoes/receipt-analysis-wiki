@@ -1,4 +1,4 @@
-# State of the issues at at the end of sprint
+# State of the issues at the end of sprint
 
 ## Backend
 ![dumpsterfire-backend](/dumpsterfire-backend.png)

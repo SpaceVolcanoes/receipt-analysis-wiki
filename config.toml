@@ -49,6 +49,12 @@ pygmentCodeFences = true
     weight = 2
 
 [[menu.main]]
+    parent = "retros"
+    name = "Mild food poisoning"
+    url = "page/retro-mild-food-poisoning"
+    weight = 3
+
+[[menu.main]]
     name = "Business"
     url = "page/business-analysis"
     weight = 3

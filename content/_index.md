@@ -34,6 +34,7 @@ We are building an automatic shopping receipt data capture and analysis service 
 
 - [Spawn point](/page/retro-spawn-point) - milestone [front](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-frontend/-/milestones/1) / [back](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-backend/-/milestones/1)
 - [Dumpster Fire](/page/retro-dumpster-fire) - milestone [front](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-frontend/-/milestones/2) / [back](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-backend/-/milestones/2)
+- [Mild food poisoning](/page/retro-mild-food-poisoning) - milestone [front](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-frontend/-/milestones/3) / [back](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-backend/-/milestones/3)
 
 ## Supporting materials
 
