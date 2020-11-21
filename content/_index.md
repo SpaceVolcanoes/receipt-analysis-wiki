@@ -5,6 +5,8 @@ We are building an automatic shopping receipt data capture and analysis service 
 
 Visit our website at [receipt.modalstudio.com](https://receipt.modalstudio.com/).
 
+See service [status](https://stats.uptimerobot.com/qDK0gIO086).
+
 **In part 1 we will accomplish the following:**
 - [x] Have a basic backend REST API that allows us to upload images 
 - [x] Backend that stores receipt information to database
