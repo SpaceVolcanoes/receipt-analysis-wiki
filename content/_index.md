@@ -3,6 +3,8 @@
 
 We are building an automatic shopping receipt data capture and analysis service where users can upload a picture of their latest receipts and get a detailed overview of their spending habits and trends to help them manage their money easier. 
 
+Visit our website at [receipt.modalstudio.com](https://receipt.modalstudio.com/).
+
 **In part 1 we will accomplish the following:**
 - [x] Have a basic backend REST API that allows us to upload images 
 - [x] Backend that stores receipt information to database
@@ -10,9 +12,9 @@ We are building an automatic shopping receipt data capture and analysis service 
 - [x] Have a detailed receipt page that displays the enries covered by a receipt
 
 **In part 2 we will accomplish the following:**
-- [ ] AWS server setup where our backend docker container runs and frontend is delivered
-- [ ] Automatic deploy to our server
-- [ ] Automatically run tests in our pipeline
+- [x] AWS server setup where our backend docker container runs and frontend is delivered
+- [x] Automatic deploy to our server
+- [x] Automatically run tests in our pipeline
 
 **By the end of part 3 we will have:**
 - [ ] A working website online that is able to produce receipt data from (some) images
@@ -35,6 +37,7 @@ We are building an automatic shopping receipt data capture and analysis service 
 - [Spawn point](/page/retro-spawn-point) - milestone [front](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-frontend/-/milestones/1) / [back](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-backend/-/milestones/1)
 - [Dumpster Fire](/page/retro-dumpster-fire) - milestone [front](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-frontend/-/milestones/2) / [back](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-backend/-/milestones/2)
 - [Mild food poisoning](/page/retro-mild-food-poisoning) - milestone [front](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-frontend/-/milestones/3) / [back](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-backend/-/milestones/3)
+- [Abandoned cabin](/page/retro-abandoned-cabin) - milestone [front](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-frontend/-/milestones/4) / [back](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-backend/-/milestones/4)
 
 ## Supporting materials
 
