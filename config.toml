@@ -27,9 +27,21 @@ pygmentCodeFences = true
   name = "Jaak Kütt, Kristjan Kõiv, Kristajn Koitla, Mart Kaasik"
 
 [[menu.main]]
+    identifier = "technical"
     name = "Technical"
+    weight = 1
+
+[[menu.main]]
+    parent = "technical"
+    name = "Overview"
     url = "page/technical"
     weight = 1
+
+[[menu.main]]
+    parent = "technical"
+    name = "Installation guide"
+    url = "page/installation"
+    weight = 2
 
 [[menu.main]]
     identifier = "retros"
