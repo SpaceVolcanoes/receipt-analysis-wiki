@@ -3,7 +3,20 @@
 
 ## ES2
 
-TODO: What instance, how it was configured?
+The server is an Amazon Web Services ES2 instance.
+Configured with the settings: 
+- AMI: Ubuntu Server 20.04 LTS (HVM), SSD Volume Type
+- Instance Type: t3.micro
+- Storage size: 32 GiB
+- Security group has extra rules to make the server open to the world
+    1. Allow all traffic from 0.0.0.0/0
+    2. Allow all traffic from ::/0
+    3. Allow TCP port 22 traffic from 0.0.0.0/0 for using SSH 
+
+After launching the server some additional packages were installed
+- `vim` - for working with text
+- `docker` and `docker-compose` - for our frontend and backend
+- `gitlab-runner` - for the Gitlab CI/CD integration
 
 Add additional swap memory
 
@@ -23,14 +36,14 @@ If you are a teacher, your key should already be added.
 
 ### Docker & docker-compose
 
-TODO: How were they installed?
+Installed with `sudo apt-get install docker docker-compose`
 
 `docker-compose.frontend.yml`, `docker-compose.backend.yml` and `.env` files are deployed to the server by gitlab pipeline
 and are subsequently used to configure, run and update our services.
 
 ### Gitlab runner
 
-TODO: How was the gitlab-runner itself installed?
+Installed with `sudo apt-get install gitlab-runner`
 
 Gitlab runner instance is configured using the following `/etc/gitlab-runner/config.toml` file:
 
