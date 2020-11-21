@@ -1,6 +1,4 @@
-# Technical description
-
-## Project overview
+# Overview
 
 The goal of the current project is to provide a service which is able to help its users to upload, manage and
 gain insight about their purchase receipts.
@@ -20,7 +18,7 @@ for both the frontend and backend services.
 
 Our server is located at [https://receipt.modalstudio.com/](https://receipt.modalstudio.com/) with public IP `13.53.140.53`,
 hosted on AWS EC2. Services are running as [Docker](https://www.docker.com/) containers. Server installation
-and Gitlab runner configuration was done manually, see [installation guide](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-backend/-/blob/development/docs/aws_server.md)
+and Gitlab runner configuration was done manually, see [installation guide](/page/installation)
 for more details.
 
 ### CI/CD
