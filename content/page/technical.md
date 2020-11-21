@@ -11,7 +11,7 @@ gain insight about their purchase receipts.
 
 ## Components
 
-![Component Diagram](/archdiagram.png)
+![Component Diagram](/componentdiagram.png)
 
 Production environment is configured by docker-compose and .env file on the EC2 server. Compose files are separate
 for both the frontend and backend services.
@@ -19,7 +19,7 @@ for both the frontend and backend services.
 ### Server
 
 Our server is located at [https://receipt.modalstudio.com/](https://receipt.modalstudio.com/) with public IP `13.53.140.53`,
-hosted on AWS EC2 and served. Services are running as [Docker](https://www.docker.com/) containers. Server installation
+hosted on AWS EC2. Services are running as [Docker](https://www.docker.com/) containers. Server installation
 and Gitlab runner configuration was done manually, see [installation guide](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-backend/-/blob/development/docs/aws_server.md)
 for more details.
 
