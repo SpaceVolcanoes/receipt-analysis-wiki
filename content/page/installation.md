@@ -9,6 +9,9 @@ Configured with the settings:
 - Instance Type: t3.micro
 - Storage size: 32 GiB
 - Security group has extra rules to make the server open to the world
+    1. Allow all traffic from 0.0.0.0/0
+    2. Allow all traffic from ::/0
+    3. Allow TCP port 22 traffic from 0.0.0.0/0 for using SSH 
 
 After launching the server some additional packages were installed
 - `vim` - for working with text
