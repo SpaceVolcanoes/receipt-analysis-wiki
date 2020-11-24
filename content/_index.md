@@ -40,6 +40,7 @@ See service [status](https://stats.uptimerobot.com/qDK0gIO086).
 - [Dumpster Fire](/page/retro-dumpster-fire) - milestone [front](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-frontend/-/milestones/2) / [back](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-backend/-/milestones/2)
 - [Mild food poisoning](/page/retro-mild-food-poisoning) - milestone [front](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-frontend/-/milestones/3) / [back](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-backend/-/milestones/3)
 - [Abandoned cabin](/page/retro-abandoned-cabin) - milestone [front](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-frontend/-/milestones/4) / [back](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-backend/-/milestones/4)
+- [Frozen lake](/page/retro-frozen-lake) - milestone [front](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-frontend/-/milestones/5) / [back](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-backend/-/milestones/5)
 
 ## Supporting materials
 

@@ -6,5 +6,5 @@
 ## Frontend
 ![sprint1.frontend](/sprint1-frontend.png)
 
-# Retro
+## Retro
 ![sprint1.retro](/sprint1-retro.png)

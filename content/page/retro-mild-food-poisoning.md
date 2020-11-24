@@ -6,6 +6,5 @@
 ## Frontend
 ![mildfoodpoisoning-frontend](/mildfoodpoisoning-front.png)
 
-# Retro
-
+## Retro
 ![mildfoodpoisoning-retro](/mildfoodpoisoning-retro.png)

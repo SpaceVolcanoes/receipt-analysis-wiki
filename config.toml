@@ -73,6 +73,12 @@ pygmentCodeFences = true
     weight = 4
 
 [[menu.main]]
+    parent = "retros"
+    name = "Frozen lake"
+    url = "page/retro-frozen-lake"
+    weight = 5
+
+[[menu.main]]
     name = "Business"
     url = "page/business-analysis"
     weight = 3
