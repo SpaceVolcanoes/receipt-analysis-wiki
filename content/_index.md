@@ -7,21 +7,22 @@ Visit our website at [receipt.modalstudio.com](https://receipt.modalstudio.com/)
 
 See service [status](https://stats.uptimerobot.com/qDK0gIO086).
 
-**In part 1 we will accomplish the following:**
-- [x] Have a basic backend REST API that allows us to upload images 
-- [x] Backend that stores receipt information to database
-- [x] Have a Vue frontend that connects to our backend
-- [x] Have a detailed receipt page that displays the enries covered by a receipt
+## Development story
 
-**In part 2 we will accomplish the following:**
+**Part 3:**
+- [X] Users can register and login so that their data remains more private and connected to themselves
+- [X] A working website online that is able to produce receipt data from (some) images
+
+**Part 2:**
 - [x] AWS server setup where our backend docker container runs and frontend is delivered
 - [x] Automatic deploy to our server
 - [x] Automatically run tests in our pipeline
 
-**By the end of part 3 we will have:**
-- [ ] A working website online that is able to produce receipt data from (some) images
-- [ ] User account login page so that the data will remain connected with the customer
-- [ ] Provide some statistics/insight for our users about their shopping behavior
+**Part 1:**
+- [x] Have a basic backend REST API that allows us to upload images 
+- [x] Backend that stores receipt information to database
+- [x] Have a Vue frontend that connects to our backend
+- [x] Have a detailed receipt page that displays the enries covered by a receipt
 
 ## The Team
 - **Team Lead and Project Manager**:  Jaak Kütt  @jakutt

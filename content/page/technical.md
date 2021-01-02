@@ -5,7 +5,7 @@ gain insight about their purchase receipts.
 
 ## Architecture
 
-![Architecture Diagram](/archdrawing21.11.2020.png)
+![Architecture Diagram](/archdrawing.png)
 
 ## Components
 
@@ -34,7 +34,7 @@ serve our static frontend files. Container is running on
 [receiptanalysis/frontend](https://hub.docker.com/repository/docker/receiptanalysis/frontend) with `linuxserver/letsencrypt` 
 as the base image to provide us with certificate update and SSL connection.
 
-### OCR _*(deployed, not integrated)_
+### OCR
 
 Our OCR service is a small containerized python application served by [Flask](https://palletsprojects.com/p/flask/)
 framework internally on port `5000`. Its goal is to provide our backend service with text extraction features from
@@ -52,9 +52,9 @@ Static files are packaged in and served by Nginx container.
 
 Our backend service is providing a variety of endpoints for managing customer receipts and purchase entries connected
 to them. It is also responsible for data validation and processing before saving it to persistent storage with 
-[JPA](https://spring.io/projects/spring-data-jpa). Receipt images are stored on AWS S3 _*(not yet implemented)_.
-Service is built using [Spring Boot](https://spring.io/projects/spring-boot) framework and running on Java 11,
-published internally on port `8080`. Container is running on image 
+[JPA](https://spring.io/projects/spring-data-jpa). Service is built using
+[Spring Boot](https://spring.io/projects/spring-boot) framework and running on Java 11, published internally on 
+port `8080`. Container is running on image 
 [receiptanalysis/backend](https://hub.docker.com/repository/docker/receiptanalysis/backend) with `openjdk:11-jre-slim`
 as the base image.
 

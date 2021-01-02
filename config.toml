@@ -79,11 +79,18 @@ pygmentCodeFences = true
     weight = 5
 
 [[menu.main]]
+    identifier = "business"
     name = "Business"
-    url = "page/business-analysis"
     weight = 3
 
 [[menu.main]]
-    name = "Money"
-    url = "page/money"
-    weight = 3
+    parent = "business"
+    name = "Business analysis"
+    url = "page/business-analysis"
+    weight = 1
+
+[[menu.main]]
+    parent = "business"
+    name = "Features"
+    url = "page/features"
+    weight = 2
