@@ -68,6 +68,8 @@ Our features described as user stories together with links to implementation tic
   **I WANT** to be able to see and delete images customers have uploaded
   **SO THAT** I could police compliance to our terms of service.
 
+  **Notes:** Backend support is done
+
   **Issues:**
   [☁#47](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-backend/-/issues/47)
   [🖥#19](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-frontend/-/issues/19)
