@@ -50,7 +50,7 @@ Gitlab runner instance is configured using the following `/etc/gitlab-runner/con
 * token omitted, obtain one from [runners settings](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-backend/-/settings/ci_cd#js-runners-settings)
 
 ```
-concurrent = 2
+concurrent = 1
 check_interval = 0
 
 [session_server]
