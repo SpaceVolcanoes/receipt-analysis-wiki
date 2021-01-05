@@ -13,7 +13,7 @@ Initial scope during the iti0203-2020 team project
 - Part 2: Step up a deployment pipeline and live environment
 - Part 3: Add auth layer and basic OCR functionality for receipt photos
 
-Further scope
+## Further scope
 
 - Store images externally on AWS S3
 - Add separate paid account tiers and restrictive usage limitations to manage our costs

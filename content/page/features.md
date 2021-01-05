@@ -64,7 +64,7 @@ Our features described as user stories together with links to implementation tic
   [☁#8](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-backend/-/issues/8)
   [🖥#6](https://gitlab.cs.ttu.ee/jakutt/team-02-spacevolcanoes-frontend/-/issues/6)
 
-- [ ] **AS AN** administrator
+- [X] **AS AN** administrator
   **I WANT** to be able to see and delete images customers have uploaded
   **SO THAT** I could police compliance to our terms of service.
 
