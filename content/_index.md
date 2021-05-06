@@ -27,7 +27,7 @@ See service [status](https://stats.uptimerobot.com/qDK0gIO086).
 ## The Team
 - **Team Lead and Project Manager**:  Jaak Kütt  @jakutt
 - **Lead Backend Developer**:  Kristjan Kõiv  @krikoi
-- **Lead Frontend Developer**:  Kristajn Koitla  @krkoit
+- **Lead Frontend Developer**:  Kristjan Koitla  @krkoit
 - **DevOps Engineer**:  Mart Kaasik  @markaa
 
 ## Repositories
