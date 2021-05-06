@@ -24,7 +24,7 @@ pygmentCodeFences = true
 
 
 [Author]
-  name = "Jaak Kütt, Kristjan Kõiv, Kristajn Koitla, Mart Kaasik"
+  name = "Jaak Kütt, Kristjan Kõiv, Kristjan Koitla, Mart Kaasik"
 
 [[menu.main]]
     identifier = "technical"
